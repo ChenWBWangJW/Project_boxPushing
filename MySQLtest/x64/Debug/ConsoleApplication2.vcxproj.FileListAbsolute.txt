@@ -1,0 +1,2 @@
+D:\PL\CPP\ConsoleApplication2\x64\Debug\MySQL连接测试.exe
+D:\练习项目\MySQLtest\x64\Debug\MySQL连接测试.exe
