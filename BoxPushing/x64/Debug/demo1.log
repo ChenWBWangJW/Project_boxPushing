@@ -1,0 +1,13 @@
+﻿D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(demo1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  box_man.cpp
+D:\练习项目\BoxPushing\game_db.h(9,1): warning C4005: “LINE”: 宏重定义
+D:\练习项目\BoxPushing\box_man.h(7,1): message : 参见“LINE”的前一个定义
+D:\练习项目\BoxPushing\game_db.h(10,1): warning C4005: “COLUMN”: 宏重定义
+D:\练习项目\BoxPushing\box_man.h(8,1): message : 参见“COLUMN”的前一个定义
+D:\练习项目\BoxPushing\box_man.cpp(224,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  game_db.cpp
+D:\练习项目\BoxPushing\game_db.cpp(246,40): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\练习项目\BoxPushing\game_db.cpp(250,33): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+D:\练习项目\BoxPushing\game_db.cpp(301): warning C4715: “transfrom_map_db2array”: 不是所有的控件路径都返回值
+  demo1.vcxproj -> D:\练习项目\BoxPushing\x64\Debug\推箱子.exe
